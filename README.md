@@ -25,6 +25,7 @@ Visual Studio Code Insiders no Linux.
 - CSS
 - HTML
 - JavaScript
+- Teste
 
 #### Autoria
 
